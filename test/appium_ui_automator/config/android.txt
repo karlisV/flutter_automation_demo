@@ -1,0 +1,5 @@
+[caps]
+platformName = 'Android'
+deviceName = 'emulator-5554'
+app = './../../build/app/outputs/flutter-apk/app-debug.apk'
+automationName = 'UiAutomator2'
