@@ -52,7 +52,7 @@ class _MyHomePageState extends State<MyHomePage> {
             const Text(
               'You have pushed the button this many times:',
               key: ValueKey("counter-discription-key"),
-              semanticsLabel: "example",
+              semanticsLabel: "demo_content_desc_1",
             ),
             Text('$_counter',
                 key: const ValueKey("counter-key"),
